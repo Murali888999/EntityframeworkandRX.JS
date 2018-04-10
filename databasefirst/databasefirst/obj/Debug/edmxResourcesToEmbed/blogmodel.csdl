@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="databasefirstModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="datapost">
+    <Key>
+      <PropertyRef Name="postid" />
+      <PropertyRef Name="title" />
+      <PropertyRef Name="body" />
+      <PropertyRef Name="datapublished" />
+    </Key>
+    <Property Name="postid" Type="Int32" Nullable="false" />
+    <Property Name="title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="body" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="datapublished" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="databasefirstEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="dataposts" EntityType="Self.datapost" />
+  </EntityContainer>
+</Schema>

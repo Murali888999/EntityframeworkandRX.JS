@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="databasefirstModelStoreContainer" CdmEntityContainer="databasefirstEntities">
+    <EntitySetMapping Name="dataposts">
+      <EntityTypeMapping TypeName="databasefirstModel.datapost">
+        <MappingFragment StoreEntitySet="datapost">
+          <ScalarProperty Name="postid" ColumnName="postid" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="body" ColumnName="body" />
+          <ScalarProperty Name="datapublished" ColumnName="datapublished" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

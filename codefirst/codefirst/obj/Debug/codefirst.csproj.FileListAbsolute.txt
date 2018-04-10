@@ -1,0 +1,15 @@
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\bin\Debug\codefirst.exe.config
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\bin\Debug\codefirst.exe
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\bin\Debug\codefirst.pdb
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\bin\Debug\EntityFramework.dll
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\bin\Debug\EntityFramework.xml
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\obj\Debug\codefirst.csprojResolveAssemblyReference.cache
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\obj\Debug\codefirst.exe
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\obj\Debug\codefirst.pdb
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\obj\Debug\codefirst.Migrations.createemp.resources
+E:\Bizruntime\c#.netprograms\EntityFramework\codefirst\codefirst\obj\Debug\codefirst.csproj.GenerateResource.Cache
+E:\biz-git\EntityframeworkandRX.JS\codefirst\codefirst\bin\Debug\codefirst.exe.config
+E:\biz-git\EntityframeworkandRX.JS\codefirst\codefirst\obj\Debug\codefirst.exe
+E:\biz-git\EntityframeworkandRX.JS\codefirst\codefirst\obj\Debug\codefirst.pdb

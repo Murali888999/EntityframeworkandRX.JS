@@ -1,0 +1,13 @@
+E:\Bizruntime\c#.netprograms\EntityFramework\databasefirst\databasefirst\bin\Debug\databasefirst.exe.config
+E:\Bizruntime\c#.netprograms\EntityFramework\databasefirst\databasefirst\obj\Debug\databasefirst.csprojResolveAssemblyReference.cache
+E:\Bizruntime\c#.netprograms\EntityFramework\databasefirst\databasefirst\bin\Debug\databasefirst.exe
+E:\Bizruntime\c#.netprograms\EntityFramework\databasefirst\databasefirst\bin\Debug\databasefirst.pdb
+E:\Bizruntime\c#.netprograms\EntityFramework\databasefirst\databasefirst\bin\Debug\EntityFramework.dll
+E:\Bizruntime\c#.netprograms\EntityFramework\databasefirst\databasefirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\Bizruntime\c#.netprograms\EntityFramework\databasefirst\databasefirst\bin\Debug\EntityFramework.xml
+E:\Bizruntime\c#.netprograms\EntityFramework\databasefirst\databasefirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\Bizruntime\c#.netprograms\EntityFramework\databasefirst\databasefirst\obj\Debug\databasefirst.exe
+E:\Bizruntime\c#.netprograms\EntityFramework\databasefirst\databasefirst\obj\Debug\databasefirst.pdb
+E:\biz-git\EntityframeworkandRX.JS\databasefirst\databasefirst\bin\Debug\databasefirst.exe.config
+E:\biz-git\EntityframeworkandRX.JS\databasefirst\databasefirst\obj\Debug\databasefirst.exe
+E:\biz-git\EntityframeworkandRX.JS\databasefirst\databasefirst\obj\Debug\databasefirst.pdb

@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="https://unpkg.com/@reactivex/rxjs@5.5.7/dist/global/Rx.js"></script>
+</head>
+<body>
+    <script>
+        const firstMap = new Map([[1, 'murali'], [2, 'latha']]); 
+         const secondMap = new Map([[3, 'mohan'], [4, 'y']]);          
+         Rx.Observable.merge( 
+           firstMap,          
+           secondMap.keys()          
+                 ).subscribe( 
+                   value => document.write(value + "<br/>"), 
+                   err => { }, 
+                   () => document.write('yes') 
+                 ); 
+    </script>
+</body>
+</html>
